@@ -2,13 +2,13 @@
 tweet scrapper for corona and related topic
 
 
-# ingest data into mySQL 
+# [ETL] ingest data into mySQL 
 to-be-update
 
-# topic model, wordcloud & name entity extraction
+# [Analysis] topic model, wordcloud & name entity extraction
 to-be-update
 
-# network & graph analysis
+# [Analysis] network & graph analysis
 to-be-update
 
 
