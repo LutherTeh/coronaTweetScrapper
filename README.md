@@ -5,7 +5,7 @@ tweet scrapper for corona and related topic
 # topic model, wordcloud & name entity extraction
 to-be-update
 
-# network analysis
+# network & graph analysis
 to-be-update
 
 
