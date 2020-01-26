@@ -2,6 +2,9 @@
 tweet scrapper for corona and related topic
 
 
+# ingest data into mySQL 
+to-be-update
+
 # topic model, wordcloud & name entity extraction
 to-be-update
 
